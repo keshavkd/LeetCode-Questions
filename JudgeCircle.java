@@ -12,6 +12,8 @@
 // Input: "LL"
 // Output: false
 
+//Difficulty : Easy
+
 import java.io.*;
 import java.util.*;
 
